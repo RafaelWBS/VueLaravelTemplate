@@ -1,1 +1,3 @@
 # VueLaravelTemplate
+
+Hello World
